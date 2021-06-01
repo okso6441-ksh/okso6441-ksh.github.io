@@ -1,9 +1,9 @@
 ### repo
 #### ML
-[ML](https://github.com/okso6441-ksh/ML/edit/main/README.md) 
+[ML](https://github.com/okso6441-ksh/ML) 
 
 #### Recommendation System
-[RS](https://github.com/okso6441-ksh/RecommendationSystem/edit/main/README.md) 
+[RS](https://github.com/okso6441-ksh/RecommendationSystem) 
 
 ### 이력서  
 *작성중*

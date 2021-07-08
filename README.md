@@ -1,9 +1,9 @@
 ### repo
-#### ML
-[ML](https://github.com/okso6441-ksh/ML) 
+#### [ML](https://github.com/okso6441-ksh/ML) 
+>
 
-#### Recommendation System
-[RS](https://github.com/okso6441-ksh/RecommendationSystem) 
+#### [Recommendation System](https://github.com/okso6441-ksh/RecommendationSystem) 
+> 추천 논문 리뷰, 
 
 ---
 ### 이력서  
@@ -20,8 +20,7 @@
 |2020.12-|[S*K] 회계시스템 유지보수|(사업관리/개발)MSSQL|
 |2018.12-2020.07|[S*C] 자회사 HR 시스템 구축|(개발) 전자정부 F/W, MYSQL|
 |2018.03-2018.11|[에*윌]|(기술영업/컨설팅)|
-|2017.09-2017.12|[S*C] 통합계정관리 하자보수 및 추가기능개선|(개발) JAVA, JSP|
-|2017.05-2017.08|[S*C] 통합계정관리 고도화|(개발) JAVA, JSP|
+|2017.05-2017.12|[S*C] 통합계정관리 고도화|(개발) JAVA, JSP|
 |2016.11-2017.03|[S*D] 시스템 전면개편|(개발)|
 |2016.08-2016.09|[타*폼] 시스템 전면개편|(개발) Oracle DB|
 |2016.02-2016.05|[롯*트] 차세대 시스템 구축|(개발) Oracle DB|

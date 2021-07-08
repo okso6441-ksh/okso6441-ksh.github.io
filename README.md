@@ -1,9 +1,18 @@
-### repo
+### Repositories
 #### [ML](https://github.com/okso6441-ksh/ML) 
->
+* Baseline, Comp(kaggle, dacon)
 
 #### [Recommendation System](https://github.com/okso6441-ksh/RecommendationSystem) 
-> 추천 논문 리뷰, 
+* 추천 논문 리뷰  
+
+#### [Certi_ADP](https://github.com/okso6441-ksh/Certi_ADP) 
+* ADP 실기 준비(R+Python)
+
+#### [Certi_BigDataAnaEng](https://github.com/okso6441-ksh/Certi_BigDataAnaEng) 
+* 빅분기 실기 준비(Python) 
+
+#### [CodingTest](https://github.com/okso6441-ksh/CodingTest) 
+* 이코테, 코드업, 해커랭크
 
 ---
 ### 이력서  

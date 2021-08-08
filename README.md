@@ -1,18 +1,19 @@
 ### Repositories
-#### [ML](https://github.com/okso6441-ksh/ML) 
+#### [ML(Machine Learning)](https://github.com/okso6441-ksh/ML) 
+> 머신러닝과 관련된 베이스라인 코드 및 자료 정리  
 * Baseline, Comp(kaggle, dacon)
 
 #### [Recommendation System](https://github.com/okso6441-ksh/RecommendationSystem) 
-* 추천 논문 리뷰  
+> 추천시스템과 관련된 이론 및 논문 리뷰  
 
 #### [Certi_ADP](https://github.com/okso6441-ksh/Certi_ADP) 
-* ADP 실기 준비(R+Python)
+> ADP 실기 준비(R+Python)  
 
 #### [Certi_BigDataAnaEng](https://github.com/okso6441-ksh/Certi_BigDataAnaEng) 
-* 빅분기 실기 준비(Python) 
+> 빅분기 실기 준비(Python)  
 
 #### [CodingTest](https://github.com/okso6441-ksh/CodingTest) 
-* 이코테, 코드업, 해커랭크
+> 이코테, 코드업, 해커랭크, 프로그래머스 소스 정리  
 
 ---
 ### 이력서  
@@ -21,7 +22,9 @@
 * 학력: 
   * 학사: 산업공학 전공 
   * 석사(2021.08 졸업예정): 인공지능 전공    
-* 기술: (웹) 자바, 전자정부F/W, RDB   
+* 기술: 
+  * (웹) 자바, 전자정부F/W, RDB   
+  * (데이터) 파이썬, R, 사이킷런  
 * 프로젝트: 
 
 |기간|프로젝트|(역할)기술|

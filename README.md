@@ -1,7 +1,7 @@
 ### Repositories
 #### [ML(Machine Learning)](https://github.com/okso6441-ksh/ML) 
 > 머신러닝과 관련된 베이스라인 코드 및 자료 정리  
-* Baseline, Comp(kaggle, dacon)
+* Baseline, Comp(kaggle, dacon), 시각화(matplotlib, plotly, tableau)
 
 #### [Recommendation System](https://github.com/okso6441-ksh/RecommendationSystem) 
 > 추천시스템과 관련된 이론 및 논문 리뷰  

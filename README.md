@@ -1,35 +1,22 @@
-### Repositories
-#### [ML(Machine Learning)](https://github.com/okso6441-ksh/ML) 
-> 머신러닝과 관련된 베이스라인 코드 및 자료 정리  
-* Baseline, Comp(kaggle, dacon), 시각화(matplotlib, plotly, tableau)
-
-#### [Recommendation System](https://github.com/okso6441-ksh/RecommendationSystem) 
-> 추천시스템과 관련된 이론 및 논문 리뷰  
-
-#### [Certi_ADP](https://github.com/okso6441-ksh/Certi_ADP) 
-> ADP 실기 준비(R+Python)  
-
-#### [Certi_BigDataAnaEng](https://github.com/okso6441-ksh/Certi_BigDataAnaEng) 
-> 빅분기 실기 준비(Python)  
-
-#### [CodingTest](https://github.com/okso6441-ksh/CodingTest) 
-> 이코테, 코드업, 해커랭크, 프로그래머스 소스 정리  
+**개발자 > 데이터분석가/데이터사이언티스트 전직중**  
 
 ---
 ### 이력서  
 * 경력: 2011 ~ 2015(정규직), 2015 ~ 현재(프리랜서)  
-* 자격: 정보처리기사, 정보관리기술사, 정보시스템 수석감리원, 정보통신 특급감리원, ADP, 빅데이터분석기사      
+* 자격: 
+  * (2011) 정보처리기사, (2016) 정보관리기술사, (2017) 정보시스템 수석감리원, (2017) 정보통신 특급감리원
+  * (2021) ADP, (2021) 빅데이터분석기사      
 * 학력: 
   * 학사: 산업공학 전공 
   * 석사(2021.08 졸업예정): 인공지능 전공    
 * 기술: 
   * (웹) 자바, 전자정부F/W, RDB   
-  * (데이터) 파이썬, R, 사이킷런  
+  * (데이터) [파이썬](https://github.com/okso6441-ksh/CodingTest), [R](https://github.com/okso6441-ksh/Certi_ADP), [사이킷런](https://github.com/okso6441-ksh/ML), [Tableau](https://github.com/okso6441-ksh/ML/tree/master/Visualization/Tableau)      
 * 프로젝트: 
 
 |기간|프로젝트|(역할)기술|
 |---|---|---|
-|2020.12-|[S*K] 회계시스템 유지보수|(사업관리/개발)MSSQL|
+|2020.12-|[S*K] 회계시스템 유지보수|(사업관리/개발) MSSQL|
 |2018.12-2020.07|[S*C] 자회사 HR 시스템 구축|(개발) 전자정부 F/W, MYSQL|
 |2018.03-2018.11|[에*윌]|(기술영업/컨설팅)|
 |2017.05-2017.12|[S*C] 통합계정관리 고도화|(개발) JAVA, JSP|
@@ -47,6 +34,23 @@
 |2011.06-2012.01|[식*청] 현장~~통합망구축|(사업관리)|
 |2011.01-2011.06|[A*O] 통합 유지보수|(개발) Oracle ERP, Forms, Oracle DB, RD|
 |2010.07-2010.12|[위*코] SAP 구축 |(사업관리/개발) ABAP|
+---
+### Repositories
+#### [ML(Machine Learning)](https://github.com/okso6441-ksh/ML) 
+> 머신러닝과 관련된 베이스라인 코드 및 자료 정리  
+* [Baseline](https://github.com/okso6441-ksh/ML/tree/master/Baseline), [Comp](https://github.com/okso6441-ksh/ML/tree/master/competition)(kaggle, dacon), 시각화(matplotlib, plotly, [Tableau](https://github.com/okso6441-ksh/ML/tree/master/Visualization/Tableau))
+
+#### [Recommendation System](https://github.com/okso6441-ksh/RecommendationSystem) 
+> 추천시스템과 관련된 이론 및 논문 리뷰  
+
+#### [Certi_ADP](https://github.com/okso6441-ksh/Certi_ADP) 
+> ADP 실기 준비(R+Python)  
+
+#### [Certi_BigDataAnaEng](https://github.com/okso6441-ksh/Certi_BigDataAnaEng) 
+> 빅분기 실기 준비(Python)  
+
+#### [CodingTest](https://github.com/okso6441-ksh/CodingTest) 
+> 이코테, 코드업, 해커랭크, 프로그래머스 소스 정리  
 
 ---
 ### Support or Contact

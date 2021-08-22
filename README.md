@@ -36,6 +36,9 @@
 |2010.07-2010.12|[위*코] SAP 구축 |(사업관리/개발) ABAP|
 ---
 ### Repositories
+
+#### [이력서](https://github.com/okso6441-ksh/okso6441-ksh.github.io)  
+
 #### [ML(Machine Learning)](https://github.com/okso6441-ksh/ML) 
 > 머신러닝과 관련된 베이스라인 코드 및 자료 정리  
 * [Baseline](https://github.com/okso6441-ksh/ML/tree/master/Baseline), [Comp](https://github.com/okso6441-ksh/ML/tree/master/competition)(kaggle, dacon), 시각화(matplotlib, plotly, [Tableau](https://github.com/okso6441-ksh/ML/tree/master/Visualization/Tableau))

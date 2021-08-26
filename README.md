@@ -12,6 +12,7 @@
 * 기술: 
   * (웹) 자바, 전자정부F/W, RDB   
   * (데이터) [파이썬](https://github.com/okso6441-ksh/CodingTest), [R](https://github.com/okso6441-ksh/Certi_ADP), [사이킷런](https://github.com/okso6441-ksh/ML), [Tableau](https://github.com/okso6441-ksh/ML/tree/master/Visualization/Tableau)      
+---  
 * 프로젝트: 
 
 |기간|프로젝트|(역할)기술|
@@ -34,6 +35,7 @@
 |2011.06-2012.01|[식*청] 현장~~통합망구축|(사업관리)|
 |2011.01-2011.06|[A*O] 통합 유지보수|(개발) Oracle ERP, Forms, Oracle DB, RD|
 |2010.07-2010.12|[위*코] SAP 구축 |(사업관리/개발) ABAP|
+
 ---
 ### Repositories
 
@@ -41,7 +43,7 @@
 
 #### [ML(Machine Learning)](https://github.com/okso6441-ksh/ML) 
 > 머신러닝과 관련된 베이스라인 코드 및 자료 정리  
-* [Baseline](https://github.com/okso6441-ksh/ML/tree/master/Baseline), [Comp](https://github.com/okso6441-ksh/ML/tree/master/competition)(kaggle, dacon), 시각화(matplotlib, plotly, [Tableau](https://github.com/okso6441-ksh/ML/tree/master/Visualization/Tableau))
+* [Baseline](https://github.com/okso6441-ksh/ML/tree/master/Baseline), [Comp](https://github.com/okso6441-ksh/ML/tree/master/competition)([kaggle](https://github.com/okso6441-ksh/ML/tree/master/competition/kaggle), [dacon](https://github.com/okso6441-ksh/ML/tree/master/competition/dacon)), 시각화(matplotlib, [Tableau](https://github.com/okso6441-ksh/ML/tree/master/Visualization/Tableau))
 
 #### [Recommendation System](https://github.com/okso6441-ksh/RecommendationSystem) 
 > 추천시스템과 관련된 이론 및 논문 리뷰  

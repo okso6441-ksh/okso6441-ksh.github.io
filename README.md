@@ -13,7 +13,7 @@
   * (웹) 자바, 전자정부F/W, RDB   
   * (데이터) [파이썬](https://github.com/okso6441-ksh/CodingTest), [R](https://github.com/okso6441-ksh/Certi_ADP), [사이킷런](https://github.com/okso6441-ksh/ML), [Tableau](https://github.com/okso6441-ksh/ML/tree/master/Visualization/Tableau)      
 ---  
-* 프로젝트: 
+* 프로젝트(개발/사업관리): 
 
 |기간|프로젝트|(역할)기술|
 |---|---|---|
@@ -36,7 +36,24 @@
 |2011.01-2011.06|[A*O] 통합 유지보수|(개발) Oracle ERP, Forms, Oracle DB, RD|
 |2010.07-2010.12|[위*코] SAP 구축 |(사업관리/개발) ABAP|
 
+---  
+* 프로젝트(AI/Data): 
+
+|기간|데이터 셋|주요 알고리즘/라이브러리|주요 처리/작업|Git 주소|
+|---|---|---|---|---|
+|2019.05.28~2019.06.13|[Kaggle] [워드팝콘 감정 분류](https://www.kaggle.com/c/word2vec-nlp-tutorial)|rf, RNN|nltk, 워드클라우드|[Click](https://github.com/okso6441-ksh/ML/blob/master/pdf/03.IMDB_%EC%98%81%ED%99%94_%EA%B0%90%EC%A0%95%EB%B6%84%EC%84%9D.pdf)|
+|2019.11.20~2019.12.18|[크롤링] [rottentomatoes](https://www.rottentomatoes.com/)|beatifulsoup4, requests|raw data 추출|[Click](https://github.com/okso6441-ksh/ML/blob/master/pdf/01.%EC%98%81%ED%99%94%ED%8F%89%EC%A0%90_%ED%81%AC%EB%A1%A4%EB%A7%81_%EC%8B%9C%EA%B0%81%ED%99%94.pdf)|
+|2020.07.02~2020.07.27|[Dacon] [제주 신용카드 빅데이터 경진](https://dacon.io/competitions/official/235615/overview/description)|LGBMRegressor, lightgbm, Lasso|휴리스틱|[Click](https://github.com/okso6441-ksh/ML/tree/master/competition/dacon/%EC%A0%9C%EC%A3%BC%EC%8B%A0%EC%9A%A9%EC%B9%B4%EB%93%9C%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B2%BD%EC%A7%84)|
+|2020.08.18~2020.09.15|[Kaggle] [뉴욕 택시 거리](https://www.kaggle.com/c/nyc-taxi-trip-duration)|XGBRegressor, ElasticNet, rf, …|위/경도> 거리, 외부 데이터 merge|[Click](https://github.com/okso6441-ksh/ML/tree/master/competition/kaggle/NewYorkCityTaxiTripDuration)|
+|2020.09.06~2020.09.15|[Kaggle] [타이타닉](https://www.kaggle.com/c/titanic)|LogisticRegressio, XGBClassifier|앙상블/보팅|[Click](https://github.com/okso6441-ksh/ML/tree/master/competition/kaggle/titanic)|
+|2020.09.28~2020.10.31|[Dacon] [심리 성향 예측](https://dacon.io/competitions/official/235647/overview/description)|pycaret(CatBoost, GBC, lightgbm, ...)|feature selection, 범주형 그룹핑|[Click](https://github.com/okso6441-ksh/ML/tree/master/competition/dacon/%EC%8B%AC%EB%A6%AC%EC%84%B1%ED%96%A5%EC%98%88%EC%B8%A1)|
+|2020.10.15~2020.10.31|[Kaggle] [성인 인구조사 소득 예측 대회](https://www.kaggle.com/c/kakr-4th-competition)|pycaret(CatBoost, Extreme GB, lightGB...)|변수조합> 파생변수|[Click](https://github.com/okso6441-ksh/ML/tree/master/competition/kaggle/%EC%84%B1%EC%9D%B8%20%EC%9D%B8%EA%B5%AC%EC%A1%B0%EC%82%AC%20%EC%86%8C%EB%93%9D%20%EC%98%88%EC%B8%A1)|
+|2020.11.23~2020.12.15|[시각화] [에어 코리아](https://airkorea.or.kr/web), [기상청 날씨누리](https://www.weather.go.kr/w/index.do)|matplotlib|판단 기준 수립|[Click](https://github.com/okso6441-ksh/ML/blob/master/pdf/02.%EB%82%A0%EC%94%A8%EC%A0%95%EB%B3%B4_%EC%88%98%EC%A7%91_%EC%8B%9C%EA%B0%81%ED%99%94.pdf)|
+|2021.01.13~2021.01.25|[Dacon] [태양광 발전량 예측](https://dacon.io/competitions/official/235680/overview/description)|tensorflow/keras, lightgbm|time shift|[Click](https://github.com/okso6441-ksh/ML/tree/master/competition/dacon/%ED%83%9C%EC%96%91%EA%B4%80%EB%B0%9C%EC%A0%84%EB%9F%89%EC%98%88%EC%B8%A1)|
+|2021.01.14~2021.02.03|[Dacon] [시스템 품질 변화 사용자 불편 예지](https://dacon.io/competitions/official/235687/overview/description)|pycaret(CatBoost, GBC, Extra Tree, ...)|time data 변환|[Click](https://github.com/okso6441-ksh/ML/tree/master/competition/dacon/%EC%8B%9C%EC%8A%A4%ED%85%9C%ED%92%88%EC%A7%88%EB%B3%80%ED%99%94%EC%82%AC%EC%9A%A9%EC%9E%90%EB%B6%88%ED%8E%B8%EC%98%88%EC%A7%80)|
+|2021.04.05~2021.04.13|[Dacon] [신용카드 사용자 연체 예측](https://dacon.io/competitions/official/235713/overview/description)|pycaret(CatBoost, lightgbm, GBC, ...)|mean enc, 군집화|[Click](https://github.com/okso6441-ksh/ML/tree/master/competition/dacon/%EC%8B%A0%EC%9A%A9%EC%B9%B4%EB%93%9C%EC%82%AC%EC%9A%A9%EC%9E%90%EC%97%B0%EC%B2%B4%EC%98%88%EC%B8%A1)|
 ---
+
 ### Repositories
 
 #### [이력서](https://github.com/okso6441-ksh/okso6441-ksh.github.io)  

@@ -8,7 +8,7 @@
   * (2021) ADP, (2021) 빅데이터분석기사      
 * 학력: 
   * 학사: 산업공학 전공 
-  * 석사(2021.08 졸업예정): 인공지능 전공    
+  * 석사: 인공지능 전공    
 * 기술: 
   * (웹) 자바, 전자정부F/W, RDB   
   * (데이터) [파이썬](https://github.com/okso6441-ksh/CodingTest), [R](https://github.com/okso6441-ksh/Certi_ADP), [사이킷런](https://github.com/okso6441-ksh/ML), [Tableau](https://github.com/okso6441-ksh/ML/tree/master/Visualization/Tableau)      
@@ -17,7 +17,7 @@
 
 |기간|프로젝트|(역할)기술|
 |---|---|---|
-|2020.12-**현재**|[S*K] 회계시스템 유지보수|(사업관리/개발) MSSQL|
+|2020.12-**현재**|[S*K] 회계시스템 유지보수 PM|(사업관리/개발) MSSQL|
 |2018.12-2020.07|[SK 자회사(에이스, 탑, 오엔에스, 에프앤유)] HR 시스템 개발|(개발) 전자정부 F/W, MYSQL|
 |2018.03-2018.11|[에스윌]|(기술영업/컨설팅)|
 |2017.05-2017.12|[SK C&C] 통합계정관리 고도화|(개발) JAVA, JSP|

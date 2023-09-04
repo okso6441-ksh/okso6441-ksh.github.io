@@ -43,7 +43,7 @@
 
 |기간|데이터 셋|주요 알고리즘/라이브러리|주요 처리/작업|Git 주소|
 |---|---|---|---|---|
-|2023.07.17~2023.08.28|[Dacon] [2023 전력사용량 예측 AI 경진대회](https://dacon.io/competitions/official/236125/overview/description))|LGBMRegressor, XGBoost, AutoML|[피처엔지니어링]()|[Click]([https://github.com/okso6441-ksh/ML/tree/master/competition/dacon/%EC%A0%9C%EC%A3%BC%EC%8B%A0%EC%9A%A9%EC%B9%B4%EB%93%9C%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B2%BD%EC%A7%84](https://github.com/okso6441-ksh/ML/tree/master/competition/dacon/2023%20%EC%A0%84%EB%A0%A5%EC%82%AC%EC%9A%A9%EB%9F%89%20%EC%98%88%EC%B8%A1%20AI%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C)| 
+|2023.07.17~2023.08.28|[Dacon] [2023 전력사용량 예측 AI 경진대회](https://dacon.io/competitions/official/236125/overview/description))|LGBMRegressor, XGBoost, AutoML|[피처엔지니어링]()|[Click](https://github.com/okso6441-ksh/ML/tree/master/competition/dacon/2023%20%EC%A0%84%EB%A0%A5%EC%82%AC%EC%9A%A9%EB%9F%89%20%EC%98%88%EC%B8%A1%20AI%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C)| 
 |2022.10.21|[KISA] [사이버보안AI*빅데이터챌린지2022](https://aibigdatasec.kr/)|대외비|본선진출|대외비 
 |2019.05.28~2019.06.13|[Kaggle] [워드팝콘 감정 분류](https://www.kaggle.com/c/word2vec-nlp-tutorial)|rf, RNN|nltk, 워드클라우드|[Click](https://github.com/okso6441-ksh/ML/blob/master/pdf/03.IMDB_%EC%98%81%ED%99%94_%EA%B0%90%EC%A0%95%EB%B6%84%EC%84%9D.pdf)|
 |2019.11.20~2019.12.18|[크롤링] [rottentomatoes](https://www.rottentomatoes.com/)|beatifulsoup4, requests|raw data 추출|[Click](https://github.com/okso6441-ksh/ML/blob/master/pdf/01.%EC%98%81%ED%99%94%ED%8F%89%EC%A0%90_%ED%81%AC%EB%A1%A4%EB%A7%81_%EC%8B%9C%EA%B0%81%ED%99%94.pdf)|

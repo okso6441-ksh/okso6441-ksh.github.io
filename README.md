@@ -84,6 +84,7 @@
 ---
 ### Tech Blog
 > https://okso6441.tistory.com
+* 비공개글을 공개로 전환 중(일 개수 제한 존재함)
 ---
 ### Support or Contact
 okso6441@gmail.com  

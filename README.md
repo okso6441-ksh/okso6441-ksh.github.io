@@ -83,7 +83,7 @@
 
 ---
 ### Tech Blog
-https://okso6441.tistory.com
+> https://okso6441.tistory.com
 ---
 ### Support or Contact
 okso6441@gmail.com  
